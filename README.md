@@ -1,0 +1,2 @@
+# crowdshow
+A crowdsourced slideshow
